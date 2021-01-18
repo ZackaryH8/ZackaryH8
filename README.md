@@ -21,5 +21,7 @@
 <br />
 
 ### Statistics
-
-[![Zack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackaryH8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/stuyk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZackaryH8&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZackaryH8&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
