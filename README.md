@@ -1,6 +1,6 @@
 ### Hello, I'm zack
 
-- 🔭 I’m currently working on Rebel Roleplay, an alt:V GTA Server
+- 🔭 I’m currently working on a alt:V GTA Server
 - 😄 I mainly script in JavaScript
 - 🖼️ I sometimes attempt frontend development
 
