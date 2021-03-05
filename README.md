@@ -6,15 +6,15 @@
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="35px" src="https://github.com/benawad/flairs/blob/master/raw/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://github.com/benawad/flairs/blob/master/raw/css.png" />
-<img align="left" alt="Less" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://github.com/benawad/flairs/blob/master/raw/javascript.png?raw=true" />
-<img align="left" alt="TypeScript" width="35px" src="https://github.com/benawad/flairs/blob/master/raw/typescript.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" />
+<img align="left" alt="HTML5" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Less" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" />
+<img align="left" alt="JavaScript" width="35px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_128x128.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Node.js" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="Monk" width="35px" src="https://avatars2.githubusercontent.com/u/28830676?v=3&s=200" />
-<img align="left" alt="Vue" width="35px" src="https://github.com/benawad/flairs/blob/master/raw/vue.png" />
+<img align="left" alt="Vue" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 
 <br />
 
